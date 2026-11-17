@@ -76,11 +76,7 @@ Support
 
 📚 03. Formation et certifications
 
-🎓 BTS SIO – Option SISR : (Établissement / Dates)
-
-📜 Certifications : (PIX, Cisco, ANSSI, MOOC...)
-
-📖 Formations complémentaires : (Formations suivies)
+🎓 BTS SIO – Option SISR : MyDigitalSchool (2026-2028)
 
 🔐 04. Veille technologique
 
