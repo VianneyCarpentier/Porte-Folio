@@ -86,13 +86,15 @@ Support
 
 La veille technologique me permet de suivre les évolutions du secteur informatique.
 
-Thématique : (Cybersécurité / Réseaux / Cloud / IA...)
+Thématique : (Cybersécurité / Réseaux / Cloud / IA/ Hardware...)
 
 Sujets suivis : (Actualités et technologies étudiées)
+- https://paxpc.fr
+- https://www.cowcotland.com
+- Le "Tech Sama Show" de la chaine YouTube Tech_Sama
+- Le "Tech Actu" de la chaine YouTube Jigfio
 
 📬 05. Me contacter
-
-Vous souhaitez échanger avec moi ou découvrir mes projets ?
 
 💼 LinkedIn : https://www.linkedin.com/in/vianney-carpentier-254b7734a/
 
