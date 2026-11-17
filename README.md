@@ -10,8 +10,8 @@
 <!-- TEXTE ANIMÉ -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Bienvenue+sur+mon+portfolio+%F0%9F%91%8B;Étudiant+en+BTS+SIO+option+SISR;Administration+Systèmes+%26+Réseaux;Passionné+de+Cybersécurité"
-    alt="Texte animé"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&height=60&lines=Bienvenue+sur+mon+portfolio+!;Etudiant+en+BTS+SIO+option+SISR;Administration+Systemes+et+Reseaux;Passionne+de+Cybersecurite"
+    alt="Texte anime - Portfolio SISR"
   />
 </p>
 
